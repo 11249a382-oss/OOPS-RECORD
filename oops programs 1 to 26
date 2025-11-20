@@ -1080,4 +1080,5 @@ Students:
 Saved to students.txt
 
 **Result:**
-A simple menu/record example
+A simple menu/record example ties together classes, containers, and file I/O. Expandable to full CRUD operations for a mini-project.
+
